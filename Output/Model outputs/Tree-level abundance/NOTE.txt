@@ -1,0 +1,19 @@
+Note that the following files could not be uploaded due to size restriction on uploads:
+/Tree-level abundance:
+- MODEL_gam_full_roost.Rds
+- MODEL_gam_full_tree.Rds
+- MODEL_gam_M2_roost.Rds
+- MODEL_gam_M3_roost.Rds
+- MODEL_gam_null_roost.Rds
+
+/Tree-level abundance/BFF:
+- MODEL_gam_M3_roost.Rds
+- MODEL_gam_null_roost.Rds
+
+/Tree-level abundance/GHFF:
+- MODEL_gam_M3_roost.Rds
+- MODEL_gam_null_roost.Rds
+
+/Tree-level abundance/LRFF:
+- MODEL_gam_M3_roost.Rds
+- MODEL_gam_null_roost.Rds
